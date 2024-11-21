@@ -199,6 +199,150 @@ const dropdownData = [
       },
     ],
   },
+  {
+    mainTitle: "Dua's Excellence",
+    items: [
+      {
+        id: 1,
+        name: " Excellence of doing Tasbeeh, Tahmid, Tahlil, Takbeer",
+        subItems: [
+          {
+            id: 101,
+            name: "The reward of freeing the four slaves of Bani Ismail (AS)",
+            subItemsDetails: [
+              {
+                id: 1011,
+                subItemsTitle: "22. The reward of freeing the four slaves of Bani Ismail (AS)",
+                subItemsDetails: {
+                  textheader: "Say ten times -",
+                  text: "Whoever says this dua ten times is like one who has freed four slaves from among the children of Ismaa'eel.",
+                  arabic: " لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+                  transliteration: "Laa 'ilaaha 'illAllahu wahdahu laa shareeka lahu, lahul-mulku wa lahul-hamdu wa Huwa 'alaa kulli shay'in Qadeer",
+                  translation: " None has the right to be worshipped except Allah, alone, without any partner. To Him belong all sovereignty and praise and He is over all things omnipotent.",
+                },
+                subItemsReference: "Bukhari No: 6403; Muslim No: 2693",
+              },
+            ],
+          },
+          {
+            id: 102,
+            name: "Sins will be forgiven even if like the foam of the sea",
+
+            subItemsDetails: [
+              {
+                id: 1022,
+                subItemsTitle: "23. Sins will be forgiven even if like the foam of the sea",
+                subItemsDetails: {
+                  textheader: "The Prophet (ﷺ) said, A person who says 100 times a day (dua mentioned above) It will be forgiven all his sins even if they were as much as the foam of the sea.",
+                  arabic:
+              "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+                  transliteration:
+                    "SubhaanAllahi wa bihamdihi",
+                  translation:
+                    "Glorified is Allah and praised is He.",
+                },
+                subItemsReference: "Bukhari: 6405",
+              },
+            ],
+          },
+          {
+            id: 103,
+            name: "A dhikr which is light on tongue, Heavy on the balance",
+
+            subItemsDetails: [
+              {
+                id: 1033,
+                subItemsTitle: "24. A dhikr which is light on tongue, Heavy on the balance",
+                subItemsDetails: {
+                  textheader: "The Prophet (ﷺ) said, \"There are two expressions which are very easy for the tongue to say, but they are very heavy in the balance and are very dear to The Beneficent(Allah).And those are -",
+                  text: "The Prophet (ﷺ) said: The person who says the above statement 10 times It would be as if he had freed four of Ishmael's (As) children from slavery.",
+                  arabic:"سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+                  transliteration:
+                    "SubhaanAllahi wa bihamdihi, Subhaanal-laahil-'Adheem",
+                  translation:
+                    "Glory be to Allah and all praise is due to him, glory be to Allah the great.",
+                },
+                subItemsReference: "Bukhari: 6406",
+              },
+            ],
+          },
+        ],
+      },
+
+    ],
+  },
+  {
+    mainTitle: "Time of Dua",
+    items: [
+      {
+        id: 1,
+        name: " Times and places when dua will be accepted",
+        subItems: [
+          {
+            id: 101,
+            name: "Time when duas are accepted #1",
+            subItemsDetails: [
+              {
+                id: 1011,
+                subItemsTitle: "35. Time when duas are accepted #1",
+                subItemsDetails: {
+                  textheader: "",
+                  text: "Narrated by Abdullah ibn Amr ibn al-'As (RA): A man said: O Messenger of Allah, the mu'adhdhins excel us. The Messenger of Allah (ﷺ) said: Say (the same words) as they say, and when you come to the end, ask Allah for anything and that will be granted to you.",
+                  arabic: "",
+                  transliteration: "",
+                  translation: "",
+                },
+                subItemsReference: "Hasan (Albani). Abu Dawud: 524",
+              },
+            ],
+          },
+          {
+            id: 102,
+            name: "Time when duas are accepted #2",
+
+            subItemsDetails: [
+              {
+                id: 1022,
+                subItemsTitle: "36. Time when duas are accepted #2",
+                subItemsDetails: {
+                  textheader: "",
+                  text:"Anas (RA) said, the Prophet (ﷺ) said, when the call to prayer (adhan) is given, the gates of heaven are opened and the dua is accepted.",
+                  arabic:"",
+                  transliteration:
+                    "",
+                  translation:
+                    "",
+                },
+                subItemsReference: "Sahih (Albani). Silsila Sahihah: 1413",
+              },
+            ],
+          },
+          {
+            id: 103,
+            name: "About Lailatul Qadr",
+
+            subItemsDetails: [
+              {
+                id: 1033,
+                subItemsTitle: "37. About Lailatul Qadr",
+                subItemsDetails: {
+                  textheader: "Allah (SWT) says -",
+                  text: "",
+                  arabic:"إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ ﴿١﴾ وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ ﴿٢﴾ لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ ﴿٣﴾ تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ ﴿٤﴾ سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ ﴿٥﴾",
+                  transliteration:
+                    "",
+                  translation:
+                    "(1) Indeed, We sent the Qur'an down during the Night of Decree. (2) And what can make you know what is the Night of Decree? (3) The Night of Decree is better than a thousand months. (4) The angels and the Spirit descend therein by permission of their Lord for every matter. (5) Peace it is until the emergence of dawn.",
+                },
+                subItemsReference: "Surah Al-Qadr 97:1-5",
+              },
+            ],
+          },
+        ],
+      },
+
+    ],
+  },
 ];
 
 // API Route
